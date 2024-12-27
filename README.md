@@ -7,9 +7,13 @@
 
 ## Installation To get started with this project, clone the repository and install the necessary dependencies.
 
-##Usage: 
-To use the sentiment analysis tool, you need to follow these steps:
+## Usage: 
+**To use the sentiment analysis tool, you need to follow these steps:**
+
 Prepare your dataset: Ensure you have a dataset of tweets in CSV format with at least one column containing the tweet text.
+
 Run the preprocessing script: Clean and tokenize the tweets.
+
 Train the model: Use the preprocessed data to train the logistic regression model.
+
 Classify tweets: Use the trained model to classify new tweets.
